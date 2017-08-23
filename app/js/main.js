@@ -1,7 +1,7 @@
 require.config({
 	
 	'paths': {
-		'angular': '../bower_components/angular/angular',
+		'angular': '../../bower_components/angular/angular',
 		'app': 'app',
 		'coreModule': 'coreModule'
 	},
