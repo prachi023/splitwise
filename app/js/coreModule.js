@@ -13,8 +13,4 @@ define(function(){
 		$routeParams.otherwise({redirectTo: '/dashboardView'});
 	}]);
 
-	coreModule.controller('mainController', function($scope){
-		$scope.title = "Hello World";
-	});
-
 });
